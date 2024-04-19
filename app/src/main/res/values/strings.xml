@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FunLogCatcher</string>
+    <string name="desc">提示:
+    文件存储在</string>
+</resources>
